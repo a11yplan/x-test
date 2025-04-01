@@ -1,0 +1,15 @@
+{
+  "name": "x",
+  "version": "1.0.0",
+  "main": "x.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ngrok": "^5.0.0-beta.2",
+    "playwright": "^1.51.1"
+  }
+}
