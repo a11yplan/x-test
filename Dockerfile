@@ -15,4 +15,4 @@ RUN bunx playwright install chromium
 ENV NODE_ENV=production
 
 # Start command
-CMD ["bun", "x.js"]
+ENTRYPOINT ["bun", "x.js"]
